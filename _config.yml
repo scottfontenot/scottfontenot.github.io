@@ -1,2 +1,3 @@
 name: Scott Fontenot
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
